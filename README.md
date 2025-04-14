@@ -9,8 +9,8 @@ Ce projet vise à prédire le prix de logements à partir du dataset Kaggle [Hou
 - Visualiser les résultats
 
 ## Structure du projet
-- `notebook/house_price_model.ipynb` : Notebook principal
-- `data/train.csv` : à télécharger depuis Kaggle (non versionné)
+- `notebook/house_prediction.ipynb` : Notebook principal
+- `data/Housing.csv` : à télécharger depuis Kaggle (non versionné)
 
 ## Librairies utilisées
 - Python 3.x
